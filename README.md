@@ -4,9 +4,10 @@
     <a href="https://www.acmbpdc.org"><img src="https://drive.google.com/thumbnail?id=1SxAnUpSpQKiAUKL6Gq3sLodn2z8bbS29" alt="ACMBPDC logo" width=150><br /></a>
     <br />
 </h1>
-
-![Chapter dev](assets/acmdev-darkmode.png#gh-dark-mode-only)
-![Chapter dev](assets/acmdev-lightmode.png#gh-light-mode-only)
+<h1 align="center">
+<img src="assets/acmdev-darkmode.png#gh-dark-mode-only" height=125>
+<img src="assets/acmdev-lightmode.png#gh-light-mode-only" height=125>
+</h1>
 
 This repository contains the tutorial files for ACM's Dev Foundations series.
 
